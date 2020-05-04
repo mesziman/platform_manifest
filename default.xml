@@ -7,7 +7,7 @@
 
   <default revision="refs/tags/LA.UM.8.1.r1-14700-sm8150.0"
            remote="caf"
-           sync-j="4"
+           sync-j="8"
            sync-c="true"/>
 
   <project name="abl/tianocore/edk2" path="bootable/bootloader/edk2"/>
