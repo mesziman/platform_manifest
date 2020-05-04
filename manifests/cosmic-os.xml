@@ -16,7 +16,7 @@
            fetch="https://gitlab.com/" />
 
   <remote  name="aosp"
-           revision="refs/tags/android-10.0.0_r32"
+           revision="refs/tags/android-10.0.0_r33"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com" />
 
